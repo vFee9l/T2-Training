@@ -41,7 +41,7 @@ https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/quickstart-u
 
 After installation, access:
 
-http://<nagios-ip>/nagios
+http://<<nagios-ip>>/nagios
 
 ---
 
